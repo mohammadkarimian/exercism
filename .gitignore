@@ -3,6 +3,10 @@ typescript
 */jest.config.js 
 */jest.config.js
 */package.json
+*/package-lock.json
 */tsconfig.json
 */yarn.lock
 */*.test.ts
+*/.eslintrc
+*/.eslintignore
+*/.exercism
