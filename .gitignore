@@ -6,7 +6,6 @@ typescript
 */package-lock.json
 */tsconfig.json
 */yarn.lock
-*/*.test.ts
 */.eslintrc
 */.eslintignore
 */.exercism
