@@ -1,4 +1,4 @@
-import GradeSchool from './grade-school'
+import GradeSchool from './grade-school-me'
 
 describe('School', () => {
   let gradeSchool: GradeSchool
@@ -7,7 +7,7 @@ describe('School', () => {
     gradeSchool = new GradeSchool()
   })
 
-  it('a new school has an empty roster', () => {
+  it('a new school has an empty rogitster', () => {
     expect(gradeSchool.studentRoster().size === 0).toEqual(true)
   })
 
